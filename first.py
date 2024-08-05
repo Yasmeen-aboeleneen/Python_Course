@@ -18,3 +18,9 @@ print(type({"one":1 , "two":2})) #dict  => Dictionary
 print(type(2==2))  #bool => boolean
 
 
+#Declare variables
+Name="yasmeen"
+print(Name)
+
+myName="yasmeen" # camel case
+my_Name="yasmeen" # Snake case
